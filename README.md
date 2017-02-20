@@ -1,2 +1,1 @@
-echo # Verilog-HDL
-# Verilog-HDL
+read me file
